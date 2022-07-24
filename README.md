@@ -6,8 +6,8 @@ Inside `Builds` folder you can find `zip` files for each version, these compress
 Controls:
 
 - AWSD to move.
-- Left click to shoot.
-- Right click to fire special attack when bottom bar is charged.
+- Right click to shoot.
+- Left click to fire special attack when bottom bar is charged.
 - You can collect ammo, weapon booster, life and shield.
 
 *Made with Unity.*
