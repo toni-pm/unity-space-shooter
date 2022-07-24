@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9d035c247d88bb047aa1f07eb247c6f5
+timeCreated: 1490969164
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Outerspace Militia
+  fontNames:
+  - Outerspace Militia
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
